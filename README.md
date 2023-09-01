@@ -14,7 +14,7 @@ I love Cyber Security, and am always looking to learn something new!
 **About Me:**
 
 - 👨🏻‍💻 I’m currently working on some cool personal Projects;
-- 👨 My Hobbies are Watching Mystery,Thriller, Horror Shows and Travelling!;
+- 👨 My Hobbies are Watching Mystery, Thriller, Horror Shows and Travelling!;
 - 🚀 I’m currently Working on some cool WEB Projects;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 To contact or Know more about me and my Projects, Visit [My Website]()
