@@ -26,7 +26,7 @@ I love Cyber Security, and am always looking to learn something new!
 📈 **Here are my GitHub Stats:**
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=Parth4123&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Commits](https://github-readme-streak-stats.herokuapp.com/?user=Parth4123&theme=material-palenight)
+![Commits](https://github-readme-streak-stats.herokuapp.com/?user=Parth4123&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth4123&show_icons=true&theme=material-palenight&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
